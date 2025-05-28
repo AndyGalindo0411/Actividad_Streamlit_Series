@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-altair
-plotly
-matplotlib
-streamlit-elements==0.1.*
